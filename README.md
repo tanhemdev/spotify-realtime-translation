@@ -2,6 +2,8 @@
 
 > Live podcast translation using NLP and speech synthesis
 
+**Status:** product concept and PRD, no code yet. For a working, tested translation product, see [LyricSync](https://github.com/tanhemdev/lyric-sync) ([live demo](https://tanhemdev.github.io/lyric-sync/)).
+
 <p align="center">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=type&message=AI%20%2F%20NLP&color=10b981" alt="AI / NLP" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=role&message=product%20design&color=6366f1" alt="Product Design" />
@@ -15,7 +17,7 @@
     <td align="center"><b>NLP</b><br /><sub>pipeline design</sub></td>
     <td align="center"><b>4+</b><br /><sub>target languages</sub></td>
     <td align="center"><b>RT</b><br /><sub>latency target</sub></td>
-    <td align="center"><b>5,000+</b><br /><sub>potential users</sub></td>
+    <td align="center"><b>PRD</b><br /><sub>stage</sub></td>
   </tr>
 </table>
 
